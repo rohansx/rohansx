@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- name: Todoist Readme
-  uses: abhisheknaiidu/todoist-readme@v0.0.9
+-
