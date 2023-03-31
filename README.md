@@ -26,9 +26,8 @@ I am a skilled Front-end Developer with expertise in HTML, CSS, JavaScript, and 
 
 ## 📈 Stats
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=rohansx&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohansx&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohansx&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohansx&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohansx&theme=dark" />
  
  </p>
