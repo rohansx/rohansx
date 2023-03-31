@@ -14,14 +14,21 @@ I am a skilled Front-end Developer with expertise in HTML, CSS, JavaScript, and 
 
 ### Libraries & Framework :
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 ### Other Tools
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge&logo=burpsuite&logoColor=white)
+
+## 📈 Stats
+<p align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=priyaaakansha&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=priyaaakansha&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyaaakansha&theme=tokyonight" />
+ 
+ </p>
