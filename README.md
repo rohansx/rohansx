@@ -28,6 +28,6 @@ I am a skilled Front-end Developer with expertise in HTML, CSS, JavaScript, and 
 <p align="center">
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohansx&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohansx&theme=dark" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohansx&theme=dark" />
  
  </p>
