@@ -24,4 +24,4 @@ I am a skilled Front-end Developer with expertise in HTML, CSS, JavaScript, and 
 ### Other Tools
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![BurpSuite](https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge&logo=git&logoColor=white)
+![BurpSuite](https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge&logo=burpsuite&logoColor=white)
