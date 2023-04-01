@@ -7,7 +7,7 @@ I am a skilled Front-end Developer with expertise in HTML, CSS, JavaScript, and 
 ## ⚡ Technologies
 
 ### Language :
-Ghgeg
+
 ![Java](https://img.shields.io/badge/-CORE%20JAVA-red?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/-Python-Green?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
