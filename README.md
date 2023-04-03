@@ -40,3 +40,8 @@ I am a skilled Front-end Developer with expertise in HTML, CSS, JavaScript, and 
   <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohansx&theme=" />
  
  </p>
+  
+ 
+### 👀 Visitor Info
+
+![Hitcount](https://komarev.com/ghpvc/?username=rohansx&color=57bcd9)
