@@ -42,9 +42,9 @@ I am a skilled Front-end Developer with expertise in HTML, CSS, JavaScript, and 
   <img src="https://icons8.com/icon/25250/burp-suite"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/79409258/226091987-3cdf9344-dcfa-4d4e-ad0d-d3ab37c3c4db.png" alt="notion" width="40" height="40"/>&nbsp;
    <img src="https://user-images.githubusercontent.com/79409258/226093710-b6a36dcd-8a66-4a1b-8ef2-1faeb0b6f3e2.png" alt="canva" width="40" height="40"/>&nbsp;
-  
-  
+  <img src="[https://user-images.githubusercontent.com/79409258/226093710-b6a36dcd-8a66-4a1b-8ef2-1faeb0b6f3e2.png](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)" alt="canva" width="40" height="40"/>&nbsp;
 </div>
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge&logo=burpsuite&logoColor=white)
