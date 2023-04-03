@@ -36,16 +36,12 @@ I am a skilled Front-end Developer with expertise in HTML, CSS, JavaScript, and 
 ## 📈 Stats
 <p align="center">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohansx&show_icons=true&theme=" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohansx&show_icons=true&theme=react-dark />
   <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohansx&theme=" />
  
  </p>
   
-![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=rohansx&theme=react-dark)
-<!-- <a href="https://github.com/rohansx/github-stats">
-<img src="https://github.com/getlost01//blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/getlost01/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a> -->
+![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=rohansx&theme=)
   
  
 ### 👀 Visitor Info
