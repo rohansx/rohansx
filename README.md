@@ -14,21 +14,31 @@ I am a skilled Front-end Developer with expertise in HTML, CSS, JavaScript, and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="40" height="40"/>&nbsp;&nbsp;
+<!--   <img src="https://user-images.githubusercontent.com/33249782/229695271-f0a1d2b6-824a-4513-990e-2e488990fa0f.png" alt="MongoDB" width="50" height="50"/>&nbsp;&nbsp; -->
+<!--   ![icons8-mysql-logo-48](https://user-images.githubusercontent.com/33249782/229695271-f0a1d2b6-824a-4513-990e-2e488990fa0f.png)
+ -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" title="JavaScript" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJs" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJs" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJs" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>&nbsp;&nbsp;
+
 </div>
 
 ### Other Tools :
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/33249782/229693464-73adb160-36c9-4e9b-ba23-bf32dde4d03c.png" alt="postman" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/79409258/226091987-3cdf9344-dcfa-4d4e-ad0d-d3ab37c3c4db.png" alt="notion" width="40"      height="40"/>&nbsp;&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;&nbsp;
-</div>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
+   <img src="https://user-images.githubusercontent.com/33249782/229691529-3e454a1e-ae9e-4239-83a9-7beb2da99659.png" alt="kali" width="40"/>&nbsp;&nbsp;
+   <img src="https://user-images.githubusercontent.com/33249782/229692940-18d974fa-8070-4772-b87f-cae56fea4ce5.png" alt="burpsuite"width="40"/>&nbsp;&nbsp;
+
+
+<!-- ![canva_logo_icon_145428](https://user-images.githubusercontent.com/33249782/229694413-0f0a23cf-0924-439f-b0d6-4cd73ae77161.png) -->
+
+
 
 
 ## 📈 Stats
