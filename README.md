@@ -51,7 +51,10 @@ I am a skilled Front-end Developer with expertise in HTML, CSS, JavaScript, and 
  </p>
   
 ![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=rohansx&theme=react-dark)
+
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansx&layout=compact&theme=buefy&hide_border=true" /></a>  -->
+  
+<!-- ![My activty](https://github-contribution-graph.ez4o.com/?username=rohansx&last_n_days=10&img_url=#ffff) -->
  
 ### 👀 Visitor Info
 
