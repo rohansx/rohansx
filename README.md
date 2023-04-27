@@ -55,9 +55,10 @@ I am a skilled Front-end Developer with expertise in HTML, CSS, JavaScript, and 
   
 <!-- ![My activty](https://github-contribution-graph.ez4o.com/?username=rohansx&last_n_days=10&img_url=#ffff) -->
  
-### 👀 Visitor Info
-
-![Hitcount](https://komarev.com/ghpvc/?username=rohansx&color=57bcd9)
 
 ### 🏢 Organization
 - <a href="https://github.com/open-xyz">OpenXYZ</a> : An open source organization that believes nobody can stop information insemination.
+  
+### 👀 Visitor Info
+
+![Hitcount](https://komarev.com/ghpvc/?username=rohansx&color=57bcd9)
