@@ -61,3 +61,7 @@ I am a skilled Front-end Developer with expertise in HTML, CSS, JavaScript, and 
 ### 👀 Visitor Info
 
 ![Hitcount](https://komarev.com/ghpvc/?username=rohansx&color=57bcd9)
+ 
+  ![Visitor Count](https://profile-counter.glitch.me/rohansx/count.svg)
+
+
