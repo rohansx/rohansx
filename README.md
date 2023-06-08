@@ -56,9 +56,9 @@ I am a skilled Front-end Developer, passionate about cybersecurity and committed
 ### 🏢 Organization
 - <a href="https://github.com/open-xyz">OpenXYZ</a> : An open source organization that believes nobody can stop information insemination.
   
-### Bored?
+### Bored ?
 <!--  <img src="https://github.com/rohansx/rohansx/assets/33249782/c3b8f132-b9ba-4131-8f66-4f58b85cc60f" alt="burpsuite"width="40"/> -->
-  <div><img src="https://github.com/rohansx/rohansx/assets/33249782/1bd07161-11f4-43c5-8320-30a93f4fe441" alt="burpsuite"width="40"/></div> 
+  <div><h3><img src="https://github.com/rohansx/rohansx/assets/33249782/1bd07161-11f4-43c5-8320-30a93f4fe441" alt="burpsuite"width="30"/> : <a href="https://www.chess.com/member/rohansx"> Let's play!</a></h3></div> 
 
   
 ### 👀 Visitor Info
