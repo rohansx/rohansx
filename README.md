@@ -46,8 +46,8 @@ I am a skilled Front-end Developer, passionate about cybersecurity and committed
  
  </p>
   
-![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=rohansx&theme=react-dark)
-
+<!-- ![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=rohansx&theme=react-dark)
+ -->
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansx&layout=compact&theme=buefy&hide_border=true" /></a>  -->
   
 <!-- ![My activty](https://github-contribution-graph.ez4o.com/?username=rohansx&last_n_days=10&img_url=#ffff) -->
@@ -55,6 +55,11 @@ I am a skilled Front-end Developer, passionate about cybersecurity and committed
 
 ### 🏢 Organization
 - <a href="https://github.com/open-xyz">OpenXYZ</a> : An open source organization that believes nobody can stop information insemination.
+  
+### Bored?
+<!--  <img src="https://github.com/rohansx/rohansx/assets/33249782/c3b8f132-b9ba-4131-8f66-4f58b85cc60f" alt="burpsuite"width="40"/> -->
+  <div><img src="https://github.com/rohansx/rohansx/assets/33249782/1bd07161-11f4-43c5-8320-30a93f4fe441" alt="burpsuite"width="40"/></div> 
+
   
 ### 👀 Visitor Info
 
