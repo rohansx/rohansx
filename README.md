@@ -65,4 +65,4 @@ I am a skilled Front-end Developer, passionate about cybersecurity & committed t
 
 ![Hitcount](https://komarev.com/ghpvc/?username=rohansx&color=57bcd9)
  
-
+[![Peerlist](https://github-readme-badge.peerlist.io/api/rohansx)](https://peerlist.io/rohansx)
