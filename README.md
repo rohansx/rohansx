@@ -17,7 +17,6 @@ I am a skilled Front-end Developer, passionate about cybersecurity & committed t
    <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" title="JavaScript" alt="Bootstrap" width="40" height="35"/>&nbsp;&nbsp;
    <img src="https://user-images.githubusercontent.com/33249782/229697042-b311ebf0-52b7-4812-b67d-44f902dd8f02.png" alt="NodeJs" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJs" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/rohansx/rohansx/assets/33249782/af07e5bb-47ec-4f65-97a6-285bb3525df0" alt="tailwindcss" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/rohansx/rohansx/assets/33249782/51fb37ae-a738-4f67-b584-db7b0839d1be" alt="nextjs" width="40" height="40"/>&nbsp;&nbsp;
   
