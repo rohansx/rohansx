@@ -67,7 +67,7 @@ I am a skilled Front-end Developer, passionate about cybersecurity & committed t
   
 ### Bored ?
 <!--  <img src="https://github.com/rohansx/rohansx/assets/33249782/c3b8f132-b9ba-4131-8f66-4f58b85cc60f" alt="burpsuite"width="40"/> -->
-  <div><h3><img src="https://github.com/rohansx/rohansx/assets/33249782/1bd07161-11f4-43c5-8320-30a93f4fe441" alt="burpsuite"width="25"/> : <a href="https://www.chess.com/member/rohansx"> Let's play!</a></h3></div> 
+  <div><h3><img src="https://github.com/rohansx/rohansx/assets/33249782/1bd07161-11f4-43c5-8320-30a93f4fe441" alt="burpsuite"width="25"/> : <a href="https://www.chess.com/member/rohaxyz"> Let's play!</a></h3></div> 
 
   
 ### 👀 Visitor Info
