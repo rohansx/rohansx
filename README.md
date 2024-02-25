@@ -67,14 +67,19 @@ I am a skilled Front-end Developer, passionate about cybersecurity & committed t
 
 ### 🏢 Organization
 - <a href="https://github.com/open-xyz">OpenXYZ</a>: An open source organization that believes nobody can stop information insemination.
+
   
 ### Bored ?
+<p align="center">
 <!--  <img src="https://github.com/rohansx/rohansx/assets/33249782/c3b8f132-b9ba-4131-8f66-4f58b85cc60f" alt="burpsuite"width="40"/> -->
-  <div><h3><img src="https://github.com/rohansx/rohansx/assets/33249782/1bd07161-11f4-43c5-8320-30a93f4fe441" alt="burpsuite"width="25"/> : <a href="https://www.chess.com/member/rawhun"> Let's play!</a></h3></div> 
-
+  <h2><img src="https://github.com/rohansx/rohansx/assets/33249782/1bd07161-11f4-43c5-8320-30a93f4fe441" alt="burpsuite"width="25"/> : <a href="https://www.chess.com/member/rawhun"> Let's play!</a></h2> 
+</p>
   
 ### 👀 Visitor Info
 
 ![Hitcount](https://komarev.com/ghpvc/?username=rohansx&color=57bcd9)
- 
 [![Peerlist](https://github-readme-badge.peerlist.io/api/rohansx)](https://peerlist.io/rohansx)
+
+<a href="https://www.producthunt.com/@rohansx"><img src="https://github.com/rohansx/rohansx/assets/33249782/12ac6d91-b424-4ef8-8f87-efea7184e894" alt="producthunt" width="200"/> </a>
+
+
