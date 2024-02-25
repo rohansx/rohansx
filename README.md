@@ -42,7 +42,6 @@ I am a skilled Front-end Developer, passionate about cybersecurity & committed t
   <img src="https://user-images.githubusercontent.com/79409258/226091987-3cdf9344-dcfa-4d4e-ad0d-d3ab37c3c4db.png" alt="notion" width="40"      height="40"/>&nbsp;&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
    <img src="https://user-images.githubusercontent.com/33249782/229691529-3e454a1e-ae9e-4239-83a9-7beb2da99659.png" alt="kali" width="40"/>&nbsp;&nbsp;
-   <img src="https://user-images.githubusercontent.com/33249782/229692940-18d974fa-8070-4772-b87f-cae56fea4ce5.png" alt="burpsuite"width="40"/>&nbsp;&nbsp;
 
 
 <!-- ![canva_logo_icon_145428](https://user-images.githubusercontent.com/33249782/229694413-0f0a23cf-0924-439f-b0d6-4cd73ae77161.png) -->
@@ -80,6 +79,6 @@ I am a skilled Front-end Developer, passionate about cybersecurity & committed t
 ![Hitcount](https://komarev.com/ghpvc/?username=rohansx&color=57bcd9)
 [![Peerlist](https://github-readme-badge.peerlist.io/api/rohansx)](https://peerlist.io/rohansx)
 
-<a href="https://www.producthunt.com/@rohansx"><img src="https://github.com/rohansx/rohansx/assets/33249782/12ac6d91-b424-4ef8-8f87-efea7184e894" alt="producthunt" width="200"/> </a>
+<a href="https://www.producthunt.com/@rohansx"><img src="https://github.com/rohansx/rohansx/assets/33249782/12ac6d91-b424-4ef8-8f87-efea7184e894" alt="producthunt" width="160"/> </a>
 
 
