@@ -16,7 +16,7 @@ I am a Full Stack Developer, skilled in technologies like JavaScript, TypeScript
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://user-images.githubusercontent.com/33249782/229697042-b311ebf0-52b7-4812-b67d-44f902dd8f02.png" alt="NodeJs" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://user-images.githubusercontent.com/33249782/229697042-b311ebf0-52b7-4812-b67d-44f902dd8f02.png" alt="NodeJs" width="40" height="40"/>&nbsp;&nbsp;
       <img src="https://github.com/rohansx/rohansx/assets/33249782/8137bca9-1398-4db7-a3fa-a3784714841e" alt="ExpressJs" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJs" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/rohansx/rohansx/assets/33249782/af07e5bb-47ec-4f65-97a6-285bb3525df0" alt="tailwindcss" width="40" height="40"/>&nbsp;&nbsp;
