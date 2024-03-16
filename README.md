@@ -15,7 +15,7 @@ I am a Full Stack Developer, skilled in technologies like JavaScript, TypeScript
   <img src="https://github.com/rohansx/rohansx/assets/33249782/2e43a84f-2fee-438b-8908-47da0eb6987c)" alt="Rust" width="40" height="40"/>&nbsp;&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://user-images.githubusercontent.com/33249782/229697042-b311ebf0-52b7-4812-b67d-44f902dd8f02.png" alt="NodeJs" width="40" height="40"/>&nbsp;&nbsp;
       <img src="https://github.com/rohansx/rohansx/assets/33249782/8137bca9-1398-4db7-a3fa-a3784714841e" alt="ExpressJs" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJs" width="40" height="40"/>&nbsp;&nbsp;
@@ -54,7 +54,7 @@ I am a Full Stack Developer, skilled in technologies like JavaScript, TypeScript
    <img src="https://github.com/rohansx/rohansx/assets/33249782/553127ea-fd87-4395-91d2-17978801e88d" alt="MySQL" width="60" height="50"/>
    <img src="https://github.com/rohansx/rohansx/assets/33249782/6f5eb3e5-38bd-483e-814f-baa1dc8edc17" alt="PostgreSQL" width="50" height="40"/>
    <img src="https://github.com/rohansx/rohansx/assets/33249782/ab19319b-5386-47ad-a3a3-75f348d48686" alt="Redis" width="50" height="40"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/rohansx/rohansx/assets/33249782/84f86d13-4f1b-4eff-8602-078a488cb147" alt="Docker" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/rohansx/rohansx/assets/33249782/963e9f0d-40d2-4a52-bd2a-3a096edac0fb" alt="Linux" width="40" height="40"/>&nbsp;&nbsp;
@@ -63,7 +63,6 @@ I am a Full Stack Developer, skilled in technologies like JavaScript, TypeScript
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/33249782/229693464-73adb160-36c9-4e9b-ba23-bf32dde4d03c.png" alt="postman" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/79409258/226091987-3cdf9344-dcfa-4d4e-ad0d-d3ab37c3c4db.png" alt="notion" width="40"      height="40"/>&nbsp;&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
    <img src="https://github.com/rohansx/rohansx/assets/33249782/9ff60da6-9ce5-4d50-8794-baaba0e992dc alt="canva" width="40" height="40"/>&nbsp;
 
 
