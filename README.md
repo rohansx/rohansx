@@ -59,7 +59,6 @@ I am a Full Stack Developer, skilled in technologies like JavaScript, TypeScript
   <img src="https://github.com/rohansx/rohansx/assets/33249782/84f86d13-4f1b-4eff-8602-078a488cb147" alt="Docker" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/rohansx/rohansx/assets/33249782/963e9f0d-40d2-4a52-bd2a-3a096edac0fb" alt="Linux" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/rohansx/rohansx/assets/33249782/38c5e20a-2947-4d7a-b62b-a357a8692f26" alt="AWS" width="40" height="40"/>&nbsp;&nbsp;
-     <img src="https://github.com/rohansx/rohansx/assets/33249782/25244927-4233-4988-844a-d95d7981cf00" alt="ubuntu" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/33249782/229693464-73adb160-36c9-4e9b-ba23-bf32dde4d03c.png" alt="postman" width="45" height="45"/>&nbsp;&nbsp;
    <img src="https://github.com/rohansx/rohansx/assets/33249782/9ff60da6-9ce5-4d50-8794-baaba0e992dc alt="canva" width="40" height="40"/>&nbsp;
