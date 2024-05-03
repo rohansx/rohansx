@@ -2,7 +2,7 @@
 <h1>Hi, I'm <a href="https://rohan.sh">Rohan</a>, great to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 I am a Full Stack Developer, skilled in technologies like JavaScript, TypeScript, React.js, and Node.js. Passionate about leveraging technology for innovative solutions, I've contributed to projects integrating AI and cloud technologies, demonstrating my ability to innovate and execute complex projects. My technical expertise is complemented by achievements in competitive hackathons and startup competitions. Eager to collaborate and drive impactful technology solutions, let's connect to explore potential opportunities.
-> Try `npx rohansx` for a quick intro on your terminal!
+> Try `npx rohansx` for a quick intro on your terminal!!
 
 ## ⚡ Technologies
 
