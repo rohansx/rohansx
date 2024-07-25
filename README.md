@@ -11,12 +11,11 @@ I am a Full Stack Developer, skilled in technologies like JavaScript, TypeScript
 
 <!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp;&nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/rohansx/rohansx/assets/33249782/6541fe9d-3194-432b-800f-141b2e64ccc4)" alt="TypeScript" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="https://github.com/user-attachments/assets/83a8c8fc-325a-4960-8a49-ad8098e17621" alt="Golang" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/rohansx/rohansx/assets/33249782/6541fe9d-3194-432b-800f-141b2e64ccc4" alt="TypeScript" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/83a8c8fc-325a-4960-8a49-ad8098e17621" alt="Golang" width="40" height="40"/>&nbsp;&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://user-images.githubusercontent.com/33249782/229697042-b311ebf0-52b7-4812-b67d-44f902dd8f02.png" alt="NodeJs" width="40" height="40"/>&nbsp;&nbsp;
       <img src="https://github.com/rohansx/rohansx/assets/33249782/8137bca9-1398-4db7-a3fa-a3784714841e" alt="ExpressJs" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJs" width="40" height="40"/>&nbsp;&nbsp;
