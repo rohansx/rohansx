@@ -1,7 +1,11 @@
 
 <h1>Hi, I'm <a href="https://rohan.sh">Rohan</a>, great to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-I am a Full Stack Developer, skilled in technologies like JavaScript, TypeScript, React.js, and Node.js. Passionate about leveraging technology for innovative solutions, I've contributed to projects integrating AI and cloud technologies, demonstrating my ability to innovate and execute complex projects. My technical expertise is complemented by achievements in competitive hackathons and startup competitions. Eager to collaborate and drive impactful technology solutions, let's connect to explore potential opportunities..
+_Building the future, one line of code at a time._
+
+I specialize in building efficient, secure, & scalable apps w/ Go & TypeScript, leveraging AI to enhance functionality & UX. From architecting systems & optimizing cloud infra w/ AWS to managing databases w/ Postgres, I tackle complex challenges head-on. Proficient in the MERN stack, I also thrive in Linux environments (esp. Arch Linux), where I enjoy customizing every layer.
+
+My mission? Delivering holistic, high-impact solutions that drive meaningful change.
 > Try `npx rohansx` for a quick intro on your terminal!!
 
 ## ⚡ Technologies
