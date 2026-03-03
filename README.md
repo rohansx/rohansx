@@ -1,109 +1,74 @@
+<a href="https://rohan.sh">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=57bcd9&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Rohan+%F0%9F%91%8B;Full-Stack+Engineer+%7C+Systems+Builder;Go+%C2%B7+Rust+%C2%B7+TypeScript+%C2%B7+Python;Building+tools+developers+actually+want" alt="Typing SVG" />
+</a>
 
-<h1>Hi, I'm <a href="https://rohan.sh">Rohan</a>, great to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-
-_Building the future, one line of code at a time._
-
-I specialize in building efficient, secure, & scalable apps w/ Go & TypeScript, leveraging AI to enhance functionality & UX. From architecting systems & optimizing cloud infra w/ AWS to managing databases w/ Postgres, I tackle complex challenges head-on. Proficient in the MERN stack, I also thrive in Linux environments (esp. Arch Linux), where I enjoy customizing every layer.
-
-My mission? Delivering holistic, high-impact solutions that drive meaningful change.
-> Try `npx rohansx` for a quick intro on your terminal!!
-
-## ⚡ Technologies
-
-### Language : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             Libraries & Framework :
-
-
-<!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp;&nbsp; -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/rohansx/rohansx/assets/33249782/6541fe9d-3194-432b-800f-141b2e64ccc4" alt="TypeScript" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/83a8c8fc-325a-4960-8a49-ad8098e17621" alt="Golang" width="40" height="40"/>&nbsp;&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://user-images.githubusercontent.com/33249782/229697042-b311ebf0-52b7-4812-b67d-44f902dd8f02.png" alt="NodeJs" width="40" height="40"/>&nbsp;&nbsp;
-      <img src="https://github.com/rohansx/rohansx/assets/33249782/8137bca9-1398-4db7-a3fa-a3784714841e" alt="ExpressJs" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJs" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/rohansx/rohansx/assets/33249782/af07e5bb-47ec-4f65-97a6-285bb3525df0" alt="tailwindcss" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="https://github.com/rohansx/rohansx/assets/33249782/e7ecd254-1df9-41e5-944f-53e33c63f082" alt="nextjs" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="https://github.com/rohansx/rohansx/assets/33249782/1682a79e-2d9a-4e18-bd92-ffe84e2dfa7f" alt="GraphQL" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="https://github.com/rohansx/rohansx/assets/33249782/b8b41e0b-fd1e-4870-9714-7b452e02e35e" alt="Redux" width="40" height="40"/>&nbsp;&nbsp;
-    
-
- <!--  <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" title="JavaScript" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp; -->
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-### Database : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Other Tools :
-<div>
-    <img src="https://github.com/rohansx/rohansx/assets/33249782/c7aeee4c-ea56-48c6-81c5-0b5cc10dfe73" alt="MongoDB" width="50" height="40"/>
-   <img src="https://github.com/rohansx/rohansx/assets/33249782/553127ea-fd87-4395-91d2-17978801e88d" alt="MySQL" width="60" height="50"/>
-   <img src="https://github.com/rohansx/rohansx/assets/33249782/6f5eb3e5-38bd-483e-814f-baa1dc8edc17" alt="PostgreSQL" width="50" height="40"/>
-   <img src="https://github.com/rohansx/rohansx/assets/33249782/ab19319b-5386-47ad-a3a3-75f348d48686" alt="Redis" width="50" height="40"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/rohansx/rohansx/assets/33249782/84f86d13-4f1b-4eff-8602-078a488cb147" alt="Docker" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/rohansx/rohansx/assets/33249782/963e9f0d-40d2-4a52-bd2a-3a096edac0fb" alt="Linux" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/rohansx/rohansx/assets/33249782/38c5e20a-2947-4d7a-b62b-a357a8692f26" alt="AWS" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/33249782/229693464-73adb160-36c9-4e9b-ba23-bf32dde4d03c.png" alt="postman" width="45" height="45"/>&nbsp;&nbsp;
-   <img src="https://github.com/rohansx/rohansx/assets/33249782/9ff60da6-9ce5-4d50-8794-baaba0e992dc alt="canva" width="40" height="40"/>&nbsp;
-
-
-
-<!-- ![canva_logo_icon_145428](https://user-images.githubusercontent.com/33249782/229694413-0f0a23cf-0924-439f-b0d6-4cd73ae77161.png) -->
-
-
-
-
-## 📈 Stats
 <p align="center">
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohansx&show_icons=true&theme="/>
-  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohansx&theme=" />
- 
- </p>
-  
-<!-- ![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=rohansx&theme=react-dark)
- -->
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansx&layout=compact&theme=buefy&hide_border=true" /></a>  -->
-  
-<!-- ![My activty](https://github-contribution-graph.ez4o.com/?username=rohansx&last_n_days=10&img_url=#ffff) -->
- 
-
-### 🏢 Organization
-- <a href="https://github.com/open-xyz">OpenXYZ</a>: An open source organization that believes nobody can stop information insemination.
-
-  
-### Bored ?
-<p align="center">
-<!--  <img src="https://github.com/rohansx/rohansx/assets/33249782/c3b8f132-b9ba-4131-8f66-4f58b85cc60f" alt="burpsuite"width="40"/> -->
-  <h2><img src="https://github.com/rohansx/rohansx/assets/33249782/1bd07161-11f4-43c5-8320-30a93f4fe441" alt="burpsuite"width="25"/> : <a href="https://www.chess.com/member/rawhun"> Let's play!</a></h2> 
+  <a href="https://rohan.sh"><img src="https://img.shields.io/badge/Portfolio-rohan.sh-57bcd9?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/rohansx"><img src="https://img.shields.io/badge/LinkedIn-rohansx-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://peerlist.io/rohansx"><img src="https://img.shields.io/badge/Peerlist-rohansx-00AA45?style=flat-square&logo=peerlist&logoColor=white" alt="Peerlist" /></a>
+  <a href="https://www.producthunt.com/@rohansx"><img src="https://img.shields.io/badge/Product%20Hunt-rohansx-DA552F?style=flat-square&logo=producthunt&logoColor=white" alt="Product Hunt" /></a>
 </p>
-  
-### 👀 Visitor Info
 
-![Hitcount](https://komarev.com/ghpvc/?username=rohansx&color=57bcd9)
-[![Peerlist](https://github-readme-badge.peerlist.io/api/rohansx)](https://peerlist.io/rohansx)
+---
 
-<a href="https://www.producthunt.com/@rohansx"><img src="https://github.com/rohansx/rohansx/assets/33249782/12ac6d91-b424-4ef8-8f87-efea7184e894" alt="producthunt" width="160"/> </a>
+### About Me
 
+Founding full-stack engineer with ~3 years of experience building production systems — from voice AI infrastructure and real-time pipelines to developer tools and CLI utilities. I care about performance, clean abstractions, and shipping things that work.
 
+Currently open to opportunities (remote-friendly / Europe). Previously built voice AI infra at **MyClone** (Go, Python, pgvector, RAG systems).
+
+> Try `npx rohansx` for a quick intro in your terminal!
+
+---
+
+### Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,rust,ts,python,js,html,css&theme=dark" alt="Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,graphql,redux&theme=dark" alt="Frameworks" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,docker,aws,git,linux,neovim&theme=dark" alt="Infra & Tools" />
+  </a>
+</p>
+
+---
+
+### 🚀 What I've Built
+
+- **[workz](https://github.com/rohansx/workz)** — Zoxide for git worktrees. Auto-symlinks deps, copies .env, fleet mode for parallel AI agents. 
+- **[Illuminate](https://github.com/rohansx/illuminate)** — Open source contribution copilot. AI-matched issues, deep-dive context, auto-tracked PRs.
+- **[VibeGuard / VGX](https://github.com/rohansx/vgx)** — AI code compliance & security scanner. Detects AI-generated code + vulnerabilities pre-commit. 
+- **[LeadEcho](https://github.com/rohansx/leadecho)** — Social monitoring & lead gen. Surface high-intent signals and turn conversations into pipeline.
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohansx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=57bcd9&icon_color=57bcd9&text_color=c9d1d9" alt="GitHub Stats" /> -->
+  <img width="48%" src="https://streak-stats.demolab.com?user=rohansx&theme=tokyonight&hide_border=true&background=0D1117&ring=57bcd9&fire=57bcd9&currStreakLabel=57bcd9" alt="GitHub Streak" />
+</p>
+
+---
+
+### Currently
+
+- 🔧 Hacking on **workz** — aiming to be the best git worktree tool out there
+- 🦀 Deep-diving into Rust systems programming and algorithmic optimizations
+- ♟️ [Let's play chess](https://www.chess.com/member/rawhun)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohansx&color=57bcd9&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
