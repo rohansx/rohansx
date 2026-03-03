@@ -15,7 +15,7 @@
 
 Founding full-stack engineer with ~3 years of experience building production systems — from voice AI infrastructure and real-time pipelines to developer tools and CLI utilities. I care about performance, clean abstractions, and shipping things that work.
 
-Currently open to opportunities (remote-friendly / Europe). Previously built voice AI infra at **MyClone** (Go, Python, pgvector, RAG systems).
+Currently open to opportunities (remote-friendly). Previously built voice AI infra at **MyClone** (Go, Python, pgvector, RAG systems).
 
 > Try `npx rohansx` for a quick intro in your terminal!
 
@@ -59,15 +59,13 @@ Currently open to opportunities (remote-friendly / Europe). Previously built voi
 
 ### GitHub Stats
 
-<!-- <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohansx&theme=github_dark" alt="Profile Details" />
-  </a>
-</p> -->
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohansx&theme=github_dark" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohansx&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohansx&theme=github_dark" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohansx&theme=github_dark" alt="Top Languages by Commit" />
 </p>
 
 ---
