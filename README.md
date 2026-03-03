@@ -23,40 +23,51 @@ Currently open to opportunities (remote-friendly / Europe). Previously built voi
 
 ### Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,rust,ts,python,js,html,css&theme=dark" alt="Languages" />
-  </a>
-</p>
+**Languages:**&nbsp;
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,graphql,redux&theme=dark" alt="Frameworks" />
-  </a>
-</p>
+**Frameworks & Libraries:**&nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,docker,aws,git,linux,neovim&theme=dark" alt="Infra & Tools" />
-  </a>
-</p>
+**Infra & Tools:**&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ### 🚀 What I've Built
 
 - **[workz](https://github.com/rohansx/workz)** — Zoxide for git worktrees. Auto-symlinks deps, copies .env, fleet mode for parallel AI agents. 
-- **[Illuminate](https://github.com/rohansx/illuminate)** — Open source contribution copilot. AI-matched issues, deep-dive context, auto-tracked PRs.
-- **[VibeGuard / VGX](https://github.com/rohansx/vgx)** — AI code compliance & security scanner. Detects AI-generated code + vulnerabilities pre-commit. 
-- **[LeadEcho](https://github.com/rohansx/leadecho)** — Social monitoring & lead gen. Surface high-intent signals and turn conversations into pipeline.
+- **[illuminate](https://github.com/rohansx/illuminate)** — Open source contribution copilot. AI-matched issues, deep-dive context, auto-tracked PRs. 
+- **[vibeguard/vgx](https://github.com/rohansx/vgx)** — AI code security scanner. Detects AI-generated code + vulnerabilities pre-commit. 
+- **[leadecho](https://github.com/rohansx/leadecho)** — Social monitoring & lead gen. Surface high-intent signals and turn conversations into pipeline.
 
 ---
 
 ### GitHub Stats
 
+<!-- <p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohansx&theme=github_dark" alt="Profile Details" />
+  </a>
+</p> -->
+
 <p align="center">
-  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohansx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=57bcd9&icon_color=57bcd9&text_color=c9d1d9" alt="GitHub Stats" /> -->
-  <img width="48%" src="https://streak-stats.demolab.com?user=rohansx&theme=tokyonight&hide_border=true&background=0D1117&ring=57bcd9&fire=57bcd9&currStreakLabel=57bcd9" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohansx&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohansx&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
 </p>
 
 ---
