@@ -50,7 +50,8 @@ Currently open to opportunities (remote-friendly). Previously built voice AI inf
 
 ### 🚀 What I've Built
 
-- **[workz](https://github.com/rohansx/workz)** — Zoxide for git worktrees. Auto-symlinks deps, copies .env, fleet mode for parallel AI agents. 
+- **[workz](https://github.com/rohansx/workz)** — Zoxide for git worktrees. Auto-symlinks deps, copies .env, fleet mode for parallel AI agents.
+- **[convox](https://github.com/rohansx/convox)** — Open-source voice AI orchestration platform for India. 
 - **[illuminate](https://github.com/rohansx/illuminate)** — Open source contribution copilot. AI-matched issues, deep-dive context, auto-tracked PRs. 
 - **[vibeguard/vgx](https://github.com/rohansx/vgx)** — AI code security scanner. Detects AI-generated code + vulnerabilities pre-commit. 
 - **[leadecho](https://github.com/rohansx/leadecho)** — Social monitoring & lead gen. Surface high-intent signals and turn conversations into pipeline.
