@@ -52,6 +52,7 @@ Currently open to opportunities (remote-friendly). Previously built voice AI inf
 
 - **[workz](https://github.com/rohansx/workz)** — Zoxide for git worktrees. Auto-symlinks deps, copies .env, fleet mode for parallel AI agents.
 - **[cloakpipe](https://github.com/rohansx/cloakpipe)** — Privacy middleware for LLM & RAG pipelines with consistent pseudonymization.
+- **[ctxgraph](https://github.com/rohansx/ctxgraph)** — Local-first context graph engine for AI agents and human teams.
 - **[convox](https://github.com/rohansx/convox)** — Open-source voice AI orchestration platform for India. 
 - **[illuminate](https://github.com/rohansx/illuminate)** — Open source contribution copilot. AI-matched issues, deep-dive context, auto-tracked PRs. 
 - **[vgx](https://github.com/rohansx/vgx)** — AI code security scanner. Detects AI-generated code + vulnerabilities pre-commit. 
